@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ public\ void\ act\ holds\ your\ code\ to\ make\ your\ program\ act\ upon\ putting\ code\ in\ the\ "act"\ method.\r\n\ \r\n\ @params\ -\ there\ are\ 0\ params\r\n\ @return\ -\ there\ are\ 0\ return\ types\r\n
+comment3.params=n
+comment3.target=void\ addFood(int)
+comment3.text=\r\n\ addFood\ is\ the\ method\ that\ adds\ in\ food\ objects\ to\ the\ world\ at\ random\ widths\ and\ heights.\r\n\ \r\n\ @params\ -\ there\ is\ 1\ parameter\r\n\ @return\ -\ there\ is\ no\ return\ types\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ update\ is\ used\ for\ updating\ the\ scoreboard\ each\ time\ a\ fly\ eats\ a\ fruit.\r\n\ \r\n\ @param\ -\ there\ are\ no\ parameters\r\n\ @return\ -\ there\ are\ no\ return\ types\r\n
+numComments=5
